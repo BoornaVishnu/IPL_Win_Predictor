@@ -11,9 +11,9 @@ from IPL matches up to 2024.
 models based on the available data columns. 
 3. Model Development & Training: Building and training three different 
 classification models to predict win probability: 
- - Logistic Regression 
- - Feedforward Neural Network
- - Random Forest 
+  - Logistic Regression 
+  - Feedforward Neural Network
+  - Random Forest 
 4. Model Evaluation: Assessing the performance of each model using 
 appropriate metrics (1)accuracy (2)precision (3)f1 score. 
 5. Analysis: Comparing the models' predictions and identifying strengths. 
